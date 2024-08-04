@@ -1,0 +1,23 @@
+.mainDiv
+{
+	background: url(../images/cover.png);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bgForm
+{
+	background: black;
+	opacity: .7;
+}
+
+.textForm
+{
+	color: #FD8924;
+	border-right: 1px solid white;
+}
